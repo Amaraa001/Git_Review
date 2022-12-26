@@ -10,7 +10,7 @@ public class A {
          System.out.println("Class A1");
          System.out.println("Class A1"); 
         System.out.println("Class A1");
-        System.out.println("Class A1");
+
     }
 
 }
